@@ -5,3 +5,5 @@ module.exports.Lop = require('./lop.model');
 module.exports.Khoa = require('./khoa.model');
 module.exports.MonHoc = require('./mon-hoc.model');
 module.exports.KetQua = require('./ket-qua.model');
+
+// ung nho hoang viets
